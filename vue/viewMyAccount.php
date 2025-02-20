@@ -1,6 +1,6 @@
 <?php
 
-class MyAccountView implements InterfaceView {
+class ViewMyAccount implements InterfaceView {
     public function displayView():string{
         ob_start();
 ?>

@@ -20,7 +20,7 @@ class ViewHeader implements interfaceView{
         <body>
             <header>
                 <nav>
-                    <a href="/">Accueil</a>
+                    <a href="/Task">Accueil</a>
                     <?php echo $this->getNav() ?>
                 </nav>
                 
